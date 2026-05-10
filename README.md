@@ -11,6 +11,7 @@ Skills are modular instruction sets you upload to Claude once. After that, Claud
 | Skill | Description |
 |-------|-------------|
 | [gamasutra-post-mortem](./skills/gamasutra-post-mortem/) | Generates a candid, technical post-mortem by mining git history and dev logs — produces both an internal and public/business variant as Markdown files. |
+| [libgit2-worktree-fix](./skills/libgit2-worktree-fix/) | Fixes unresponsive Antigravity agents or Git errors like "core.repositoryformatversion does not support extension: worktreeconfig" caused by libgit2 incompatibility with Claude worktrees. |
  
 ## Installation
 
